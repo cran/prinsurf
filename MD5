@@ -1,0 +1,13 @@
+7626436811ffb2f8c8a296768ececfa7 *DESCRIPTION
+9c15910d1431e122133cdb07096da208 *LICENSE
+3452b2b9da9cba43be018d80be855da4 *NAMESPACE
+1874dcd6baf273dcfa0af92825b40484 *R/principal.surface.R
+8c1a534a0b2b2ae23aeb4f30ed626896 *README.md
+803e1288fe09bd69ea22259e2e5fadc5 *build/vignette.rds
+ebd8a1516d937fc8c40d3d54605dd6bd *inst/doc/Principal_Surfaces.R
+c9135f5c8cb748c75d58a833be5dae0e *inst/doc/Principal_Surfaces.Rmd
+7f668715ddd330cfabf8caca242aead2 *inst/doc/Principal_Surfaces.html
+86af6b6dadb4875262429983ed102240 *man/figures/3d_plot.png
+df459292155038da5d6e8125c005536b *man/figures/README-example-1.png
+986527b965825f0ed4bd960de76d0925 *man/principal.surface.Rd
+c9135f5c8cb748c75d58a833be5dae0e *vignettes/Principal_Surfaces.Rmd
